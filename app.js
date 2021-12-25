@@ -1,4 +1,4 @@
-//API Key: 698df54500984ff7186c2822c0870391
+//API Key:
 function getWeather(cityName){
     const url=  `http://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=698df54500984ff7186c2822c0870391&units=metric`  ;
 
